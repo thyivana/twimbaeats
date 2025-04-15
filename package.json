@@ -1,0 +1,17 @@
+
+{
+  "name": "twimba-eats",
+  "version": "1.0.0",
+  "description": "A fast food ordering web app inspired by McDonald's – built with vanilla JS, HTML, and CSS.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["food-ordering", "vanilla-js", "mcdonalds-clone", "vite", "responsive-ui"],
+  "author": "thyivana",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
